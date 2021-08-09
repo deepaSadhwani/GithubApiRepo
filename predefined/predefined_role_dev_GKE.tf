@@ -7,5 +7,5 @@ title            = "role_dev_predef_GKE"
 description 		= "Predefined Role Description"
 permissions 		=["iam.roles.list", "iam.roles.create"]
 base_roles       =["roles/iam.serviceAccountAdmin"]
-excluded_permissions =  		["iam.serviceAccounts.setIamPolicy"] 
+
  }
