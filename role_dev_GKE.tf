@@ -4,7 +4,7 @@ target_level     = "project"
 target_id        = "db-sample-314713"
 role_id          = "role_dev_GKE"
 title            = "role_dev_GKE"
-description 		= "Custom Role Description"
+description 		= "Custom Role Description-1"
 permissions 		=["iam.roles.list", "iam.roles.create"]
 
  }
