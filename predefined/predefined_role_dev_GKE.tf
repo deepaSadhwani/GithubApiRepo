@@ -1,4 +1,4 @@
-module  "project-predefined-role"{
+module  "project-custom-role"{
 source			= "mahesh-madipally/db_Role_template/google"
 target_level     = "project"
 target_id        = "db-sample-314713"
